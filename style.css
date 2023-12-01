@@ -1,0 +1,404 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-size: 16px;
+	line-height: 26px;
+}
+.main-header{
+	max-width: 1600px;
+	margin: 0 auto;
+	position: relative;
+}
+.col-1 {width: 8.33%; float: left;}
+.col-2 {width: 16.66%; float: left;}
+.col-3 {width: 25%; float: left;}
+.col-4 {width: 33.33%; float: left;}
+.col-5 {width: 41.66%; float: left;}
+.col-6 {width: 50%; float: left;}
+.col-7 {width: 58.33%; float: left;}
+.col-8 {width: 66.66%; float: left;}
+.col-9 {width: 75%; float: left;}
+.col-10 {width: 83.33%; float: left;}
+.col-11 {width: 91.66%; float: left;}
+.col-12 {width: 100%; float: left;}
+
+.clearfix{
+	clear: both;
+}
+
+.container{
+	max-width: 1250px;
+	margin: 0 auto;
+}
+
+.logo{
+	margin-top: 8px;
+}
+.main-header .prb{
+  background-image: url("img/bgimg1.jpg");
+  overflow: hidden;
+  background-size: cover;
+  padding-bottom: 140px;
+ 
+}
+.main-header .header ul{
+	list-style: none;
+	display: inline-block;
+
+}
+.main-header .header ul li{
+	display: inline-block;
+	font-family: Myriad Pro;
+	font-size: 21px;
+	margin-top: 50px;
+	padding: 0px 20px;
+}
+
+.main-header .header ul li a{
+	text-decoration: none;
+	color: white;
+}
+.social-icon ul{
+	list-style: none;
+
+}
+.social-icon ul li{
+    display: inline-block;
+   margin-top: 50px;
+    float: left;
+}
+
+.social-icon .fa-twitter {
+    margin-left: -50px;
+    margin-top: 8px;
+     color: white;
+}
+
+.social-icon .fa-youtube {
+	 margin-left: -20px;
+	 margin-top: 8px;
+	 color: white;
+	}
+	.social-icon .fa-facebook-f{
+	 margin-left: 10px;
+	 margin-top: 8px;
+	 color: white;
+	}
+
+	/* End Header section */
+.main-header .header1 p {
+    font-family: Myriad Pro;
+    font-size: 86px;
+    color: white;
+    text-align: center;
+    padding: 255px  0px 46px 0px;
+}
+	
+	.clearfix{
+		clear: both;
+	}
+
+
+.subimg img {
+    margin-left: 506px;
+    color: white;
+    margin-top: 28px;
+    overflow: hidden;
+}
+		/* End Img */
+	.main-header .button button{
+        height: 55px;
+        width: 225px;
+        border: none;
+        margin-top: 28px;
+        color: white;
+	}
+	.button .one{
+        margin-left: 387px;
+        background: #1f1d19;
+	}
+    .button .two {
+    margin-left: 30px;
+    background: #8e7f45;
+}   
+/*ENd Button*/
+/* End First part here */
+/* Start Second part */
+
+.rokibul{
+  background-image: url("img/bg2.jpg");
+  background-size: cover;
+ overflow:hidden;	
+}
+	.rokibul h2 {
+    color: #cc9900;
+    font-size: 36px;
+    margin-top: 100px;
+    margin-left: 153px;
+}
+	.rokibul .img3 img{
+    margin-left: 203px;
+    margin-top: 16px;
+	}
+	.rokibul .img3 p {
+    text-align: center;
+    margin-left: 102px;
+    font-size: 16px;
+}
+.rokibul .img4{
+    margin-left: 28px;
+    margin-top: 40px;
+}
+.rokibul .img5 {
+    margin-top: 73px;
+    margin-right: 275px;
+    margin-bottom: 65px;
+}
+.clearfix{
+	clear: both;
+}
+/* End Second part */
+
+
+/* Start Third part */
+.main-header .find1 {
+	background-image: url("img/content1img.jpg");
+	overflow: hidden;
+}
+
+.find1 .find {
+    margin-top: 175px;
+    margin-left: 821px;
+    color: white;
+}
+.find1 .find h1{
+font-size: 36px;
+}
+.find1 .find img{
+	margin-top: 20px;
+}
+.find1 .find p{
+	margin-top: 20px;
+	font-size: 15px;
+}
+
+.find1 .find {
+    background: #202b30;
+    opacity: .7;
+   
+    width: 546px;
+    margin-left: 678px;
+    margin-top: 85px;
+    text-align: center;
+    margin-bottom: 85px;
+}
+
+	.find1 .find h1 {
+    font-size: 36px;
+    padding-top: 73px;
+}
+
+/* End Third part */
+
+/* Start fourth part */
+.main-header .sub-form{
+	background-image: url("img/bg2.jpg");
+	overflow: hidden;
+	text-align: center;
+}
+
+.main-header .sub-form h1{
+	padding-bottom: 20px;
+	color: #cc9900;
+}
+.main-header .sub-form h3{
+	color: #cc9900;
+}
+.main-header .sub-form p{
+	padding-bottom: 40px;
+}
+.main-header .sub-form .left-part {
+    margin-top: 103px;
+    margin-left: 74px;
+}
+
+.main-header .sub-form .right-part {
+    float: right;
+    margin-top: -705px;
+    margin-right: 109px;
+}
+/*End Fourth part*/
+
+/* Start Fifth part */
+.main-header .five1 {
+	background-image: url("img/five.jpg");
+	overflow: hidden;
+}
+.five1 .five img{
+	margin-top: 20px;
+}
+.five1 .five {
+    margin-top: 175px;
+    margin-left: 821px;
+    color: white;
+}
+.five1 .five h1{
+font-size: 36px;
+}
+
+.five1 .five p{
+	margin-top: 20px;
+	font-size: 15px;
+}
+
+.five1 .five {
+    background: #202b30;
+    opacity: .7;
+    width: 546px;
+    margin-left: 385px;
+    margin-top: 85px;
+    text-align: center;
+    margin-bottom: 85px;
+}
+.five1 .five h6{
+	padding-bottom: 60px;
+}
+	.five1 .five h1 {
+    font-size: 36px;
+    padding-top: 73px;
+}
+}
+
+/* End Fifth part */
+
+/* Start fourth part */
+.more{
+	background-image: url("img/bg2.jpg");
+}
+.main-header .six1{
+	background-image: url("img/bg2.jpg");
+	overflow: hidden;
+	text-align: center;
+
+}
+
+.main-header .six1 h1{
+	padding-bottom: 20px;
+	color: #cc9900;
+}
+.main-header .six1 h3{
+	color: #cc9900;
+	margin-right: 33px;
+}
+.main-header .six1 .left-part{
+	padding-bottom: 60px;
+}
+.main-header .six1 .right-part{
+	padding-bottom: 60px;
+}
+
+
+.main-header .six1 [type="text"] {
+    margin-right: -115px;
+    height: 27px;
+    border-color: #cc9900;
+    width: 186px;
+    background: white;
+}
+
+.main-header .six1 p{
+	padding-bottom: 40px;
+}
+.main-header .six1 .left-part {
+    margin-top: 99px;
+    margin-left: 100px;
+}
+.main-header .six1 button {
+    background: #cc9900;
+    border: none;
+    height: 29px;
+    width: 162px;
+    margin-top: 36px;
+}
+.main-header .six1 .name{
+	margin-right: 244px;
+}
+.main-header .six1 .party{
+	margin-right: 175px;
+}
+.main-header .six1 .left-part img{
+	padding: 10px;
+}
+.main-header .six1 .right-part {
+    float: right;
+    margin-top: -588px;
+    margin-right: 19px;
+    text-align: center;
+}
+.main-header .six1 button{
+	background: #cc9900;
+}
+
+.main-header .six1 .no{
+	margin-right: 99px;
+}
+.clearfix{
+	clear: both;
+}
+/*End Fourth part*/
+
+/*Start Footer part*/
+.main-header .footer {
+    background: black;
+    text-align: center;
+    color: white;
+    overflow: hidden;	
+    }
+
+.main-header .sespart{
+	 margin-left: 114px;
+	padding-bottom: 80px;
+	background: fixed	;
+}
+.main-header .sespart img{
+	margin-top: 20px;
+height: 25px;
+}
+.main-header .sespart h1{
+	margin-top: 50px;
+
+}
+.main-header .sespart p{
+	padding-bottom: 50px;	
+}
+/*Footer part*/
+.sespart .social-icon1 ul li{
+    display: inline-block;
+   margin-top: 50px;
+    float: left;
+    color: white;
+}
+.sespart .social-icon1 ul li a{
+	color: white;
+}
+.social-icon1 {
+    margin-left: 140px	;
+    margin-top: -86px;
+    padding: 10px;
+    color: white;
+}
+.social-icon1 .fa-instagram{
+	margin-left: 26px;
+}
+
+.social-icon1 .fa-facebook-f{
+	margin-left: 26px;
+}
+
+.social-icon1 .fa-youtube{
+	margin-left: 26px;
+}
+
+
